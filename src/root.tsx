@@ -19,7 +19,7 @@ export default function Root() {
     <Html lang="en">
       <Head>
        <link rel="icon" type="image/x-icon" href="/public/favicon.ico"/>
-        <Title>SolidStart - Bare</Title>
+        <Title>GUSD</Title>
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>

@@ -20,7 +20,7 @@ h1 {
   font-weight: 100;
   line-height: 1.1;
   margin: 4rem auto;
-  max-width: 14rem;
+  max-width: 19rem;
 }
 
 p {
@@ -28,13 +28,27 @@ p {
   margin: 2rem auto;
   line-height: 1.35;
 }
+img {
+  width: 20%;
+  height: 50%;
+  margin: auto;
+  display: block;
+}
+.container {
+  width: 180; 
+  height: 200
+}
+.credit {
+  font-size: xx-small;
+}
 
 @media (min-width: 480px) {
   h1 {
-    max-width: none;
+    /*max-width: none;*/
   }
 
   p {
     max-width: none;
   }
+
 }
